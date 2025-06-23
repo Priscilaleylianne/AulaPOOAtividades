@@ -72,5 +72,7 @@ Este projeto é de uso **educacional** e segue as normas do curso conforme o **P
 
 **[Profa Esp. Priscila Gonçalves]**  
 Curso: Progrmador de Computador
+
 Instituição: EETI MARIA DO CÉU VAZ D'OLIVEIRA
+
 Novo Ensino Médio - Qualificação Profissional 2024
